@@ -8,4 +8,4 @@ We are a group of students from the Technical University of Munich. In the conte
 For programming the Arduino IDE was used if it is not installed on your device jet you can get it [here](https://www.arduino.cc/en/Main/Software). The [software](https://github.com/Mrdayday/PumpT_UM/tree/master/Software) is in the folder of the same name. Just upload it to the Arduino that you want to use.(We used an [Arduino Nano](https://www.arduino.cc/en/Guide/ArduinoNano))
 The wiring and soldering can be seen in [here](https://github.com/Mrdayday/PumpT_UM/blob/master/Wiring.md).
 
-There are data sheets of the used parts and a section where you can see the prototype work. Please notice that this section is not functional.
+There are also data sheets of the used parts.
