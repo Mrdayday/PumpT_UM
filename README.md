@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Mrdayday/PumpT_UM/blob/master/Img/PumpT_um_logo.jpg" width="600"/>
+<img src="https://github.com/Mrdayday/PumpT_UM/blob/master/Img/PumpT_um_logo.jpg" width="linewidth"/>
 </p>
 
 ## What is this component for?
