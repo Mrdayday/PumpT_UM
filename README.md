@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/Mrdayday/PumpT_UM/blob/master/Img/PumpT_um_logo“ width=„linewide“/>
+</p>
+
 ## What is this component for?
 Its part of the FermenTUM project. This is a pump system is used to feed the reactor during fermentation. It can be used for linear feeding.
 
